@@ -1,0 +1,9 @@
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/jsf/util/JsfUtil.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/jsf/util/PaginationHelper.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/entity/Author.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/sessionbean/BookFacade.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/entity/Book.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/jsf/AuthorController.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/jsf/BookController.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/sessionbean/AbstractFacade.java
+/home/fofe/Desktop/BookStoreApp/src/main/java/za/co/bookstore/sessionbean/AuthorFacade.java

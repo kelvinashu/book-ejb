@@ -1,0 +1,15 @@
+za/co/bookstore/jsf/AuthorController.class
+za/co/bookstore/entity/Book_.class
+za/co/bookstore/jsf/BookController.class
+za/co/bookstore/sessionbean/AuthorFacade.class
+za/co/bookstore/sessionbean/AbstractFacade.class
+za/co/bookstore/sessionbean/BookFacade.class
+za/co/bookstore/entity/Book.class
+za/co/bookstore/jsf/util/JsfUtil.class
+za/co/bookstore/jsf/AuthorController$1.class
+za/co/bookstore/entity/Author.class
+za/co/bookstore/jsf/AuthorController$AuthorControllerConverter.class
+za/co/bookstore/jsf/util/PaginationHelper.class
+za/co/bookstore/jsf/BookController$1.class
+za/co/bookstore/jsf/BookController$BookControllerConverter.class
+za/co/bookstore/entity/Author_.class
